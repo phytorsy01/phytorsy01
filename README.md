@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Ahmet Zahid, I am currently studying CS at İstanbul Medipol University and I am currently interning at Sesasis IT systems.
+I am Ahmet Zahid, I am currently studying CS at İstanbul Medipol University and I am currently interning at TRT IT department.
 I am currently interested in and learning Full-Stack web development.
